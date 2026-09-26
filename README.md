@@ -19,12 +19,13 @@ QTR 1A
 silicone wheels
 
 # CAD chassis
-<img width="865" height="623" alt="image" src="https://github.com/user-attachments/assets/eaccaa39-3256-496b-92dd-bcbe37aa170d" />
+<img width="665" height="423" alt="image" src="https://github.com/user-attachments/assets/eaccaa39-3256-496b-92dd-bcbe37aa170d" />
 
 I designed it in tinkercad with 4 parts (chassis, top plate, motor holders) My main inspriation is from jsumo robotsand other sumo robotd too, its fit for most robot competitions.
 
 ## Specifications
 66 x 68 x 35
 
-
+# Sumo shield, controller and info
+So in the stardance reviewer said that they havent seen the controller which i said was the Arduino Nano. I guess there was a missunderstanding because i will aslo be using a genesis sumo shield but then they said that i have to make the controller myself.
 
