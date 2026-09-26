@@ -18,4 +18,13 @@ QTR 1A
 
 silicone wheels
 
+# CAD chassis
+<img width="865" height="623" alt="image" src="https://github.com/user-attachments/assets/eaccaa39-3256-496b-92dd-bcbe37aa170d" />
+
+I designed it in tinkercad with 4 parts (chassis, top plate, motor holders) My main inspriation is from jsumo robotsand other sumo robotd too, its fit for most robot competitions.
+
+## Specifications
+66 x 68 x 35
+
+
 
