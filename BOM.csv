@@ -5,7 +5,7 @@ Kontrol Kartı,Genesis Arduino Robot Kartı (Arduino NANO Dahil Değil),Jsumo,1,
 Motor,6V 12mm 400 RPM Redüktörlü Mikro DC Motor,Robotistan,2,185.35,370.70,3.84,7.67
 Tekerlek,SLT20 Silikon Tekerlek (33x21 mm) - 2 Adet,Jsumo,1,475.45,475.45,9.84,9.84
 Güç/Koruma,2S 5A BMS Lityum Pil Koruma Devresi,Robotistan,1,44.01,44.01,0.91,0.91
-Pil,7.4V 2S 450mAh Li-Po Batarya,,1,1131.14,1131.14,23.42,23.42
+Pil,7.4V 2S 450mAh Li-Po Batarya,Jsumo,1,1131.14,1131.14,23.42,23.42
 Pil Yuvası,18650 Pil için 2'li Pil Yuvası (18650-2) - Pil Yatağı,Power Master,1,23.07,23.07,0.48,0.48
 Anahtar,IC-192B Çıt Çıt Anahtar,Robotistan,1,16.48,16.48,0.34,0.34
 Bağlantı Elemanı,8 mm M3 Metal Dişi-Erkek Aralayıcı (Standoff-Spacer-Yükseltici),Robotistan,4,9.41,37.64,0.19,0.78
