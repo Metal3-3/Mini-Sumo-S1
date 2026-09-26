@@ -23,6 +23,11 @@ silicone wheels
 
 I designed it in tinkercad with 4 parts (chassis, top plate, motor holders) My main inspriation is from jsumo robotsand other sumo robotd too, its fit for most robot competitions.
 
+# Code info
+Max speed is 50, turn speed is 55 and the line turn speed (when the edge sensor sees white line) is 190
+
+
+
 ## Specifications
 66 x 68 x 35
 
